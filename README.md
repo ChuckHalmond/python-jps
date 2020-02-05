@@ -4,7 +4,7 @@ A Python implementation of the Jump Point Search algorithm, based on [PathFindin
 
 # Example
 
-To execute the program, launch *main.py* with your csv file containing the path instance as argument, like so :
+To execute the program, launch `main.py` with your csv file containing the path instance as argument, like so :
 
 ```shell
 python main.py instances/i1.csv
