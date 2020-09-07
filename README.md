@@ -1,10 +1,10 @@
 # python-jps
 
-A Python implementation of the Jump Point Search algorithm, based on [PathFinding.js](https://github.com/qiao/PathFinding.js).
+Implémentation partielle de l'algorithme Jump Point Search, basée sur [PathFinding.js](https://github.com/qiao/PathFinding.js).
 
-# Example
+# Utilisation
 
-To execute the program, launch `main.py` with your csv file containing the path instance as argument, like so :
+Pour exécuter le programme, lancer le script `main.py` avec en argument le chemin vers le fichier .csv contenant l'instance, comme suit :
 
 ```shell
 python main.py instances/i1.csv
